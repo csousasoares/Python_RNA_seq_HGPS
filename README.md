@@ -33,7 +33,7 @@ project_root/
 After activating the environment, launch Jupyter and open the notebook:
 
 ```bash
-jupyter hgps_deseq2_GSEA.ipynb
+jupyter lab hgps_deseq2_GSEA.ipynb
 ```
 
 Run all cells in order to reproduce the analysis and fill `output_data/`.
