@@ -36,7 +36,7 @@ After activating the environment, launch Jupyter and open the notebook:
 jupyter lab hgps_deseq2_GSEA.ipynb
 ```
 
-Run all cells in order to reproduce the analysis and fill `output_data/`.
+Run all cells in order to reproduce the analysis.
 
 
 ## Expected Outputs
