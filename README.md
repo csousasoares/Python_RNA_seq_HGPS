@@ -26,7 +26,6 @@ project_root/
 │   ├── counts_matrix.csv
 │   └── sample_info.csv
 └── output_data/
-
 ```
 
 ## Usage
@@ -34,15 +33,10 @@ project_root/
 After activating the environment, launch Jupyter and open the notebook:
 
 ```bash
-jupyter notebook
+jupyter hgps_deseq2_GSEA.ipynb
 ```
 
-Run all cells in order to reproduce the analysis and populate `output_data/`.
-
-`output_data/` is created
-automatically when the scripts run and do not need to exist beforehand.
-Therefore, they can be deleted safely since they are completely regenerated
-by running the Jupyter Notebook.
+Run all cells in order to reproduce the analysis and fill `output_data/`.
 
 
 ## Expected Outputs
